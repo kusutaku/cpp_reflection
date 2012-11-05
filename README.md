@@ -1,7 +1,7 @@
 ﻿#Reflection for GNU C++
 
 
-#What's This?
+##What's This?
 
   This class enables C++ user Model class to accept name based field accessors like ordinary reflection.  
   
@@ -11,13 +11,13 @@
     std::set<std::string> getDeclaredFields();  
   
   
-#Necessary Packages
+##Necessary Packages
   
   gcc  
   boost  
   
   
-#How To Use
+##How To Use
   
   All you have to do to use it is only 2 things as follows.  
    
@@ -46,7 +46,7 @@
       }  
   
   
-#Example Code
+##Example Code
   
   You can try an example by following command after necessary packages.  
   
@@ -54,7 +54,7 @@
   ./reflectiontest  
   
   
-#Download
+##Download
 
   You can download latest version from https://github.com/kusutaku/cpp_reflection  
   
