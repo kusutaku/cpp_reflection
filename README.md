@@ -5,9 +5,9 @@
 What's This?
 ------------
 
-This is super light weight Reflection functionarity for GNU C++.
-You don't have to install any libraries, to generate dictionaries, to use templates, and so on.
-All you have to do is to inherit the Reflection class.
+This is super light weight Reflection functionarity for GNU C++.  
+You don't have to install any libraries, to generate dictionaries, to use templates, and so on.  
+All you have to do is to inherit the Reflection class.  
 This enables C++ user Model class to accept name based field accessors like ordinary reflection.  
   
     // reflection accessor  
