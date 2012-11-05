@@ -1,4 +1,4 @@
-Reflection for GNU C++
+﻿Reflection for GNU C++
 
 
 1. What's This?
