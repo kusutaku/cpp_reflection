@@ -54,7 +54,7 @@ All you have to do to use it is only 2 things as follows.
 Example Code
 ------------
   
-You can try an example by following command after necessary packages.  
+You can try an example by following command after installing necessary packages.  
   
     make  
     ./reflectiontest  
