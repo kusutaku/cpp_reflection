@@ -8,9 +8,9 @@ What's This?
 This is super lightweight Reflection functionarity for GNU C++.  
 You don't have to install any libraries, to generate dictionaries, to use templates, and so on.  
 All you have to do is to inherit the Reflection class.  
-This enables C++ user Model class to accept name based field accessors like ordinary reflection.  
+This enables C++ user Model class to accept name based field access like ordinary reflection.  
   
-    // reflection accessor  
+    // provided reflection accessor by Reflection class  
     std::string getParameter(std::string name);  
     void setParameter(std::string name, std::string value);  
     std::set<std::string> getDeclaredFields();  
@@ -51,8 +51,8 @@ All you have to do to use it is only 2 things as follows.
     }  
   
   
-Example Code
-------------
+Running Example Code
+--------------------
   
 You can try an example by following command after installing necessary packages.  
   
