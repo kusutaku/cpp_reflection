@@ -26,7 +26,7 @@ Necessary Packages
 How To Use
 ----------
   
-All you have to do to use it is only 2 things as follows.  
+All you have to do is only 2 things as follows.  
    
 1) include reflection.hpp and inherit Reflection class from your Model class (refer to testmodel.hpp)  
     
